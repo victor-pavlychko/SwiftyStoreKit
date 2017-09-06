@@ -1,5 +1,5 @@
-# included:
-#     - Sources
+included:
+- SwiftyStoreKit
 
 # rule identifiers to exclude from running
 disabled_rules:
